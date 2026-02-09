@@ -1,13 +1,9 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using HackerNews.Core.Modularity;
 using HackerNews.Core.Modularity.Impl;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Linq;
-using System.Collections.Generic;
 
-namespace HackerNews.Core.Modularity.Tests
+namespace HackerNews.Core.Tests
 {
     [TestClass]
     public class ModuleManagerTests
