@@ -1,0 +1,8 @@
+{
+  "ApiModules": [
+    {
+      "Name": "Stories",
+      "Type": "HackerNews.Api.Module, HackerNews.Api, Culture=neutral"
+    }
+  ]
+}

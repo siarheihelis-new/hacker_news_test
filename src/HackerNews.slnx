@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="HackerNews.Core.AspNet/HackerNews.Core.AspNet.csproj" Id="fc8e7950-f308-4253-8d66-8441751a8ff7" />
+    <Project Path="HackerNews.Core.Caching/HackerNews.Core.Caching.csproj" Id="a2485076-236f-4d4b-b457-7fbf4ef3d9c1" />
+    <Project Path="HackerNews.Core.Modularity/HackerNews.Core.Modularity.csproj" Id="9ae8102e-0fed-4fd1-a286-37baf5f59bd4" />
+  </Folder>
+  <Folder Name="/Stories/">
+    <Project Path="HackerNews.Api/HackerNews.Api.csproj" Id="2775c2ef-f1db-4f97-b996-b115cca3f134" />
+    <Project Path="HackerNews.Contract/HackerNews.Contract.csproj" Id="27a22657-2600-4ac5-8872-7fcd9d774f22" />
+    <Project Path="HackerNews.Data/HackerNews.Data.csproj" Id="d65897b6-c593-4879-b918-046f3f7624e5" />
+    <Project Path="HackerNews.Logic/HackerNews.Logic.csproj" Id="28d17a65-083e-44b6-8248-2c68118bbb47" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="HackerNews.Core.Tests/HackerNews.Core.Tests.csproj" Id="eb8696e8-e64d-454e-9cb8-cbf4ca7bcbbe" />
+  </Folder>
+  <Project Path="HackerNews.Host/HackerNews.Host.csproj" Id="0a7809de-eb9f-434d-9001-a050f451a29b" />
+</Solution>
